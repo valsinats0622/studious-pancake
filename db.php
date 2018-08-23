@@ -7,7 +7,7 @@ ini_set('display_errors', 1);
 class pdodb {
 	private $pdo;
 	private $host    = '127.0.0.1';
-	private $db      = 'stanislavProject';
+	private $db      = 'curlDb';
 	private $user    = 'homestead';
 	private $pass    = 'secret';
 	private $charset = 'utf8mb4';	
